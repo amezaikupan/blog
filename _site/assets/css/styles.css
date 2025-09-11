@@ -1,0 +1,122 @@
+@charset "UTF-8";
+.current {
+  color: black;
+}
+
+.inactive {
+  color: lightgray;
+}
+
+nav a {
+  text-decoration: none; /* remove underline */
+}
+
+nav a:hover {
+  text-decoration: none; /* optional: show underline only on hover */
+}
+
+.page-content {
+  max-width: 80%;
+  margin: 0 auto; /* centers the content */
+}
+
+html {
+  overflow-y: scroll;
+}
+
+a {
+  color: blue; /* link color */
+  text-decoration: none; /* remove underline */
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end; /* push items to the right */
+  gap: 1rem; /* spacing between links */
+}
+
+body {
+  margin: 20px 100px 100px 50px;
+  font-family: "Libre Baskerville", serif;
+  font-size: 22px;
+  line-height: 1.6;
+  background-color: #fafafa; /* softer background for focus */
+}
+
+main {
+  max-width: 800px; /* focused width */
+  margin: 4rem auto; /* center and give breathing room top/bottom */
+  padding: 0 2rem; /* side space for small screens */
+  background-color: #fff; /* optional: white content background */
+}
+
+/* Remove default list styling */
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Each post item */
+.post-item {
+  margin-bottom: 15px;
+}
+
+/* Post title */
+.post-title {
+  margin: 0 0 0px;
+}
+
+.post-title a {
+  text-decoration: none;
+  color: #333;
+}
+
+.post-title a:hover {
+  color: #007acc;
+}
+
+/* Excerpt */
+.post-excerpt {
+  margin: 0;
+  color: #666;
+  font-size: 0.95em;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline; /* keeps title & date aligned nicely */
+}
+
+.post-date {
+  font-size: 0.9em;
+  color: #888; /* lighter color so date doesn’t overpower */
+  white-space: nowrap; /* prevents wrapping onto new line */
+}
+
+img {
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+blockquote {
+  border-left: 4px solid lightgray; /* blue bar */
+  padding: 0.8em 1.2em;
+  margin: 1.5em 0;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  background: #f9f9f9;
+  color: #555;
+}
+
+blockquote p {
+  margin: 0; /* remove extra spacing inside */
+  font-size: 16;
+}
+
+/*# sourceMappingURL=styles.css.map */
