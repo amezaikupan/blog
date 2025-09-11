@@ -1,4 +1,4 @@
-baseurl: "/my_blog_post"
+baseurl: "/blog"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
