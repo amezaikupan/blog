@@ -5,6 +5,9 @@ title: Links
 
 Some useful links I've found cavenging the internet. Written in no order in particular. 
 
+* TOC
+{:toc}
+
 ## Learning coding (python) 
 - Gentle guide to python: [calmcode](calmcode.com) (I love you Vincent)
 - Practice practice practice: [leetcode](leetcode.com) (Don't take it too seriously)
