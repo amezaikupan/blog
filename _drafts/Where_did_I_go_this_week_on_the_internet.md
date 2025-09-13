@@ -70,4 +70,3 @@ Though in the end, I did find value in doing this project. I made my history int
 For further development, I think making a web app for visualizing my history is a **solid good idea** (I would paid for this service if software is good) even with just the above graphs - but more pretty of course. It will be really good for when you have to check what you have done a specific day or when you're doing review. Further further maybe someone will make an LLM agent that can read people history and spot their pattern, but maybe that's a bit crossing the line in term of privacy. 
 
 
-
