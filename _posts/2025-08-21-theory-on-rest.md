@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Theory On Rest"
+title: "Theory on Rest"
 # excerpt: "Becoming a potato wasn't the answer after all"
 excerpt: "It's about balance"
 
