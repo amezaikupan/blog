@@ -10,8 +10,6 @@ Lessons that I'm learning in the form of Q&A. Written in no order in particular.
 
 ## What is up with `conda`?
 
-![image is taken from [here](https://www.chiarulli.me/Miniconda/01-Install-Miniconda/)](assets/images/miniconda.jpg)
-
 - What is `conda`?
     - It's said on the website it's an open-source package + environment management system. 
 - Why use `conda`?
