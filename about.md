@@ -15,6 +15,4 @@ A little bit more about me: I grew up on buzzfeed (violet), vlogbrothers (of cou
 > - Third priority: Good relationships with friends and family. (Depressed → no mental health.)
 > After that you can do whatever. The game you’re playing doesn’t have any rules and there’s no way to win.  
 > *From [dynomight.net](https://dynomight.net/about/)*
-<!-- Good stuff I found on the internet: 
-- Best life advice: [dynomight](https://dynomight.net/about/) -->
 
