@@ -20,7 +20,6 @@ Bonus - how do the pro code:
 
 ## Data visualization 
 - Data visualization curation from Nathan Yau (so good): [Flowing data](https://flowingdata.com/)
-
 - Best data vis tutorial: [Best Python Graph Gallery](https://python-graph-gallery.com/best-python-chart-examples/)
 
 ## Productivity 

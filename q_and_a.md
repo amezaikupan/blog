@@ -15,7 +15,7 @@ Lessons that I'm learning in the form of Q&A. Written in no order in particular.
 - Why use `conda`?
     - Several points (which I stole from [here](https://hackmd.io/@samumantha/conda-slides#/16)): take care of dependencies, OS independent, not only for python, open source 
 - What is `mamba`? `miniforge`? `mambaforge`?
-    - `mamba` is community developed and basically faster `conda` built with C++.`miniforge` and `mambaforge` is a conda distribution (I'm not sure what a conda distribution is so just gonna drop it here for now.)
+    - `mamba` is community developed and basically faster `conda` built with C++. `miniforge` and `mambaforge` is a conda distribution (I'm not sure what a conda distribution is so just gonna drop it here for now.)
 - Why don't I just use `pip`?
     - (Quoting [redC from this Reddit thread](https://www.reddit.com/r/Python/comments/w564g0/can_anyone_explain_the_differences_of_conda_vs_pip/)) *conda is a system package manager. pip is a Python package manager*
     - `pip` can help with dependencies but don't do environment management. If you just use `pip` and no environment management it will just install in your global Python - meaning you're playing around with the whole system and if something break you can't just delete the thing and start over, you have to do the hard work of **fixing it**. (And of course it's gonna be a nightmare to share your project cuz you don't know what `package` you need)
