@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What I learned from doing kaggle competition the third time"
-exerpt: "I realize it's important to have confident in things you are doing."
+excerpt: "I realize it's important to have confident in things you are doing."
 ---
 
 I started my college specialization path in Data Science 2 years ago. In that time, there were 2 times I had to participate in Kaggle competition for courses' project, in which I did not do well, because I didn't have a framework to think about machine learning modeling. 
